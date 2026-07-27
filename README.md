@@ -25,6 +25,12 @@ https://github.com/jdcondie/offer-architect-plugin
 3. Sync → Install
 4. Open a Cowork chat. Type `/` to see the slash commands.
 
+## Going further
+
+These 6 skills are the free tier. The full paid catalog spans CRO, Meta ads, copy audit, LinkedIn, B2B sales, and productized client deliverables.
+
+More at [jaycondie.com](https://jaycondie.com).
+
 ## License
 
 MIT.
